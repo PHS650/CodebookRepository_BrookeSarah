@@ -1,8 +1,14 @@
 # Introduction
 
-This is a book created from markdown and executable code.
+This is a preregistration created for Week 4 homework for PHS 650. This project uses Spotify data from TidyTuesday.
 
-See @knuth84 for additional discussion of literate programming.
+Hypotheses
+
+Hypothesis 1 (Brooke):
+
+From a factor analysis of several variables in the Spotify data, three factors emerged that describe the various components of the songs. It is hypothesized that both the intensity and involvement factors will predict song popularity such that the higher the factor score, the more likely the the song will have a higher popularity score (over and above the effects of the other factor scores). The third factor, technicality, will not significantly predict song popularity.
+
+song_popularity = b0 + b1_intensity + b2_involvement + b3_technicality \[all predictors are continuous\]
 
 ```{r}
 1 + 1
