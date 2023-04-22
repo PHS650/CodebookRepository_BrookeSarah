@@ -11,7 +11,7 @@
     "href": "Chapter1.html",
     "title": "1  Introduction",
     "section": "",
-    "text": "2 Study Information"
+    "text": "2 Study Information\nWe will use spotify data from the TidyTuesday dataset.\nTable 4.1 shows a sample of the variables we have added for analysis:"
   },
   {
     "objectID": "Chapter2.html",
@@ -38,78 +38,78 @@
     "objectID": "Chapter1.html#study-design",
     "href": "Chapter1.html#study-design",
     "title": "1  Introduction",
-    "section": "3.1 Study Design",
-    "text": "3.1 Study Design\nBrooke: Part 1 of this study was based off of Brooke’s imagination rather than existing literature. The design. More details regarding the specifics of the dataset can be obtained from TidyTuesday at the following link: https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-01-21/readme.md\nSarah: Part 2 consists of the same data as part 1. Specifics of the dataset can be found at the above address."
+    "section": "5.1 Study Design",
+    "text": "5.1 Study Design\nBrooke: Part 1 of this study was based off of Brooke’s imagination rather than existing literature. The design. More details regarding the specifics of the dataset can be obtained from TidyTuesday at the following link: https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-01-21/readme.md\nSarah: Part 2 consists of the same data as part 1. Specifics of the dataset can be found at the above address."
   },
   {
     "objectID": "Chapter1.html#explanation-of-existing-data",
     "href": "Chapter1.html#explanation-of-existing-data",
     "title": "1  Introduction",
-    "section": "4.1 Explanation of Existing Data",
-    "text": "4.1 Explanation of Existing Data\nBrooke: the data has only been accessed thus far to complete a factor analysis of a subset of the existing variables of the Spotify dataset. Beyond the creation of factor scores, no summary statistics containing the outcome variable have been examined.\nSarah: Summary statistics have not been assessed on this data yet. This data has only been used to generate new variables of interest based on the existing data. The new variables are length, song, and liv_acoust."
+    "section": "6.1 Explanation of Existing Data",
+    "text": "6.1 Explanation of Existing Data\nBrooke: the data has only been accessed thus far to complete a factor analysis of a subset of the existing variables of the Spotify dataset. Beyond the creation of factor scores, no summary statistics containing the outcome variable have been examined.\nSarah: Summary statistics have not been assessed on this data yet. This data has only been used to generate new variables of interest based on the existing data. The new variables are length, song, and liv_acoust."
   },
   {
     "objectID": "Chapter1.html#data-collection-procedures",
     "href": "Chapter1.html#data-collection-procedures",
     "title": "1  Introduction",
-    "section": "4.2 Data Collection Procedures",
-    "text": "4.2 Data Collection Procedures\nSee the TidyTuesday webpage for a detailed description of how this data was collected and compiled: https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-01-21/readme.md"
+    "section": "6.2 Data Collection Procedures",
+    "text": "6.2 Data Collection Procedures\nSee the TidyTuesday webpage for a detailed description of how this data was collected and compiled: https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-01-21/readme.md"
   },
   {
     "objectID": "Chapter1.html#sample-size",
     "href": "Chapter1.html#sample-size",
     "title": "1  Introduction",
-    "section": "4.3 Sample Size",
-    "text": "4.3 Sample Size\nThe sample size of Part 1 of this study is 32,833. This number was obtained based on the number of factor scores that were created.\nSarah:"
+    "section": "6.3 Sample Size",
+    "text": "6.3 Sample Size\nThe sample size of Part 1 of this study is 32,833. This number was obtained based on the number of factor scores that were created.\nSarah:"
   },
   {
     "objectID": "Chapter1.html#sample-size-rationale",
     "href": "Chapter1.html#sample-size-rationale",
     "title": "1  Introduction",
-    "section": "4.4 Sample Size Rationale",
-    "text": "4.4 Sample Size Rationale\nBrooke: The sample size was constrained to the existing observations in the dataset (secondary data analysis).\nSarah:"
+    "section": "6.4 Sample Size Rationale",
+    "text": "6.4 Sample Size Rationale\nBrooke: The sample size was constrained to the existing observations in the dataset (secondary data analysis)."
   },
   {
     "objectID": "Chapter1.html#manipulated-variables",
     "href": "Chapter1.html#manipulated-variables",
     "title": "1  Introduction",
-    "section": "5.1 Manipulated Variables",
-    "text": "5.1 Manipulated Variables\nBrooke: See attached document (“Homework3.pdf”) with code and descriptions for the factor analysis that was conducted to obtain predictor variables.\nHomework3.pdf\nSarah: The attached document “salas_sarah_HW3.html” describes the new variables generated in the dataset. The variable “length” is continuous and measured in minutes. The variable “song” is binary a denotes whether a track is likely a song. The variable “liv_acoust” is binary and denotes whether a track is both live and acoustic."
+    "section": "7.1 Manipulated Variables",
+    "text": "7.1 Manipulated Variables\nBrooke: See attached document (“Homework3.pdf”) with code and descriptions for the factor analysis that was conducted to obtain predictor variables.\nHomework3.pdf\nSarah: The attached document “salas_sarah_HW3.html” describes the new variables generated in the dataset. The variable “length” is continuous and measured in minutes. The variable “song” is binary a denotes whether a track is likely a song. The variable “liv_acoust” is binary and denotes whether a track is both live and acoustic."
   },
   {
     "objectID": "Chapter1.html#measured-variables",
     "href": "Chapter1.html#measured-variables",
     "title": "1  Introduction",
-    "section": "5.2 Measured Variables",
-    "text": "5.2 Measured Variables\nBrooke: The three factors have the following variables: Factor One: 1) energy, 2) loudness 3) acousticness, 4) liveness. Factor Two: 1) danceability, 2) valence, 3) speechiness, 4) tempo, 5) instrumentalness, Factor Three: 1) mode, 2) key."
+    "section": "7.2 Measured Variables",
+    "text": "7.2 Measured Variables\nBrooke: The three factors have the following variables: Factor One: 1) energy, 2) loudness 3) acousticness, 4) liveness. Factor Two: 1) danceability, 2) valence, 3) speechiness, 4) tempo, 5) instrumentalness, Factor Three: 1) mode, 2) key."
   },
   {
     "objectID": "Chapter1.html#statistical-models",
     "href": "Chapter1.html#statistical-models",
     "title": "1  Introduction",
-    "section": "6.1 Statistical models",
-    "text": "6.1 Statistical models\nBrooke: I will use a model comparison approach to test the following model: song_popularity = b0 + b1_intensity + b2_involvement + b3_technicality [all predictors are continuous]\nSarah: I will use logistic regression with nested models to assess two relationships (1) the relationship between track length and being a song and (2) the relationship between track length and being both live and acoustic. For 1 and 2, I will run models with just the main variables of interest then run new models with the added covariates."
+    "section": "8.1 Statistical models",
+    "text": "8.1 Statistical models\nBrooke: I will use a model comparison approach to test the following model: song_popularity = b0 + b1_intensity + b2_involvement + b3_technicality [all predictors are continuous]\nSarah: I will use logistic regression with nested models to assess two relationships (1) the relationship between track length and being a song and (2) the relationship between track length and being both live and acoustic. For 1 and 2, I will run models with just the main variables of interest then run new models with the added covariates."
   },
   {
     "objectID": "Chapter1.html#transformations",
     "href": "Chapter1.html#transformations",
     "title": "1  Introduction",
-    "section": "6.2 Transformations",
-    "text": "6.2 Transformations\nBrooke: Please see Homework 3 attachment for a detailed description of the conducted transformations (i.e., factor scores). No other transformations will be conducted in this dataset.\nSarah: There are no transformations expected for this analysis"
+    "section": "8.2 Transformations",
+    "text": "8.2 Transformations\nBrooke: Please see Homework 3 attachment for a detailed description of the conducted transformations (i.e., factor scores). No other transformations will be conducted in this dataset.\nSarah: There are no transformations expected for this analysis"
   },
   {
     "objectID": "Chapter1.html#missing-data",
     "href": "Chapter1.html#missing-data",
     "title": "1  Introduction",
-    "section": "6.3 Missing data",
-    "text": "6.3 Missing data\nBrooke: For the purposes of this project, I will just drop any observations (songs) that do not have factor scores.\nSarah: Should there be missing observations for the variables of interest, these will not be included in the analysis. Large amounts of missing data will be assessed for any systemic patterns."
+    "section": "8.3 Missing data",
+    "text": "8.3 Missing data\nBrooke: For the purposes of this project, I will just drop any observations (songs) that do not have factor scores.\nSarah: Should there be missing observations for the variables of interest, these will not be included in the analysis. Large amounts of missing data will be assessed for any systemic patterns."
   },
   {
     "objectID": "Chapter1.html#exploratory-analysis",
     "href": "Chapter1.html#exploratory-analysis",
     "title": "1  Introduction",
-    "section": "6.4 Exploratory Analysis",
-    "text": "6.4 Exploratory Analysis\nBrooke: The only exploratory analysis that was or will be conducted was factor analysis, which was described in the Homework 3 attachment.\nSarah: Exploratory analysis will examine any correlations between the measures for song, live, and acoustic along with length. Correlations will also be found between the two outcome variables and tempo and loudness."
+    "section": "8.4 Exploratory Analysis",
+    "text": "8.4 Exploratory Analysis\nBrooke: The only exploratory analysis that was or will be conducted was factor analysis, which was described in the Homework 3 attachment.\nSarah: Exploratory analysis will examine any correlations between the measures for song, live, and acoustic along with length. Correlations will also be found between the two outcome variables and tempo and loudness."
   },
   {
     "objectID": "Chapter2.html#brooke",
@@ -145,5 +145,12 @@
     "title": "3  Chapter 3",
     "section": "3.3 Sarah",
     "text": "3.3 Sarah\nI created three new variables in this data. Table 1 shows the new variables created from the existing Spotify data which includes song length (in minutes), whether the track is a song, and whether the track is both live and acoustic."
+  },
+  {
+    "objectID": "Chapter1.html#our-hypotheses-are",
+    "href": "Chapter1.html#our-hypotheses-are",
+    "title": "1  Introduction",
+    "section": "3.1 Our hypotheses are:",
+    "text": "3.1 Our hypotheses are:\n\n3.1.1 Hypothesis 1 (Brooke):\nFrom a factor analysis of several variables in the Spotify data, three factors emerged that describe the various components of the songs. It is hypothesized that both the intensity and involvement factors will predict song popularity such that the higher the factor score, the more likely the the song will have a higher popularity score (over and above the effects of the other factor scores). The third factor, technicality, will not significantly predict song popularity.\nsong_popularity = b0 + b1_intensity + b2_involvement + b3_technicality [all predictors are continuous]\n\n\n3.1.2 Hypothesis 2 (Sarah):\nI hypothesize that song length will predict track type (song or not) but will not predict whether a song is both live and acoustic. For the relationship between track length and track type, I expect that longer tracks are less likely to be a song. I hypothesize that covariates (tempo, loudness, genre) would not affect the outcome.\np(song) = b0 + b1_length (+ b2_tempo + b3_loudness + b4_genre) (where genre is categorical, song is binary, and the rest of the variables in the model are continuous)\np(liv_acoust) = b0 + b1_length (+ b2_tempo + b3_loudness + b4_genre) (where genre is categorical, liv_acoust is binary, and the rest of the variables in the model are continuous)"
   }
 ]
