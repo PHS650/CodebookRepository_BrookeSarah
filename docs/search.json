@@ -39,7 +39,7 @@
     "href": "Chapter1.html#study-design",
     "title": "1  Introduction",
     "section": "5.1 Study Design",
-    "text": "5.1 Study Design\nBrooke: Part 1 of this study was based off of Brooke’s imagination rather than existing literature. The design. More details regarding the specifics of the dataset can be obtained from TidyTuesday at the following link: https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-01-21/readme.md\nSarah: Part 2 consists of the same data as part 1. Specifics of the dataset can be found at the above address."
+    "text": "5.1 Study Design\nBrooke: Part 1 of this study was based off of Brooke’s imagination rather than existing literature. The design. More details regarding the specifics of the dataset can be obtained from TidyTuesday.\nSarah: Part 2 consists of the same data as part 1. Specifics of the dataset can be found at the above address."
   },
   {
     "objectID": "Chapter1.html#explanation-of-existing-data",
@@ -53,7 +53,7 @@
     "href": "Chapter1.html#data-collection-procedures",
     "title": "1  Introduction",
     "section": "6.2 Data Collection Procedures",
-    "text": "6.2 Data Collection Procedures\nSee the TidyTuesday webpage for a detailed description of how this data was collected and compiled: https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-01-21/readme.md"
+    "text": "6.2 Data Collection Procedures\nSee the TidyTuesday webpage for a detailed description of how this data was collected and compiled."
   },
   {
     "objectID": "Chapter1.html#sample-size",
