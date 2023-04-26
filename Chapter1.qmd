@@ -46,7 +46,7 @@ We will use spotify data from the TidyTuesday dataset.
 #| echo: false
 #| label: tbl-tab1
 #| tbl-cap: "Spotify New Variables"
-kable(data[1:8,1:8], caption="\\#{tbl-tab1} Table 1: Spotify New Variables")
+kable(data[1:5,1:8], caption="\\#{tbl-tab1} Table 1: Spotify New Variables")
 ```
 
 # Design Plan
