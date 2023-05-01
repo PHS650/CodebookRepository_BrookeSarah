@@ -11,7 +11,7 @@
     "href": "Chapter1.html",
     "title": "1  Introduction",
     "section": "",
-    "text": "2 Study Information\nWe will use spotify data from the TidyTuesday dataset.\nTable 4.1 shows a sample of the variables we have added for analysis:"
+    "text": "2 Study Information\n1. Assess the relationship between different factors (intensity, involvement, and technicality) and popularity of songs.\nWe will use spotify data from the TidyTuesday dataset.\nTable 4.1 shows a sample of the variables we have added for analysis:"
   },
   {
     "objectID": "Chapter2.html",
@@ -60,7 +60,7 @@
     "href": "Chapter1.html#sample-size",
     "title": "1  Introduction",
     "section": "6.3 Sample Size",
-    "text": "6.3 Sample Size\nThe sample size of Part 1 of this study is 32,833. This number was obtained based on the number of factor scores that were created.\nSarah:"
+    "text": "6.3 Sample Size\nThe sample size of Part 1 of this study is 32,833. This number was obtained based on the number of factor scores that were created."
   },
   {
     "objectID": "Chapter1.html#sample-size-rationale",
@@ -109,7 +109,7 @@
     "href": "Chapter1.html#exploratory-analysis",
     "title": "1  Introduction",
     "section": "8.4 Exploratory Analysis",
-    "text": "8.4 Exploratory Analysis\nBrooke: The only exploratory analysis that was or will be conducted was factor analysis, which was described in the Homework 3 attachment.\nSarah: Exploratory analysis will examine any correlations between the measures for song, live, and acoustic along with length. Correlations will also be found between the two outcome variables and tempo and loudness."
+    "text": "8.4 Exploratory Analysis\nBrooke: The only exploratory analysis that was or will be conducted was factor analysis, which was described in the Homework 3 attachment.\nSarah: Exploratory analysis will examine any correlations between the measures for song, live, and acoustic along with length. Correlations will also be found between the two outcome variables and tempo and loudness.\n\n\n\n\nTabachnick, Barbara G., Linda S. Fidell, and Jodie B. Ullman. 2019. Using Multivariate Statistics. Seventh edition. NY, NY: Pearson."
   },
   {
     "objectID": "Chapter2.html#brooke",
@@ -152,5 +152,12 @@
     "title": "1  Introduction",
     "section": "3.1 Our hypotheses are:",
     "text": "3.1 Our hypotheses are:\n\n3.1.1 Hypothesis 1 (Brooke):\nFrom a factor analysis of several variables in the Spotify data, three factors emerged that describe the various components of the songs. It is hypothesized that both the intensity and involvement factors will predict song popularity such that the higher the factor score, the more likely the the song will have a higher popularity score (over and above the effects of the other factor scores). The third factor, technicality, will not significantly predict song popularity.\nsong_popularity = b0 + b1_intensity + b2_involvement + b3_technicality [all predictors are continuous]\n\n\n3.1.2 Hypothesis 2 (Sarah):\nI hypothesize that song length will predict track type (song or not) but will not predict whether a song is both live and acoustic. For the relationship between track length and track type, I expect that longer tracks are less likely to be a song. I hypothesize that covariates (tempo, loudness, genre) would not affect the outcome.\np(song) = b0 + b1_length (+ b2_tempo + b3_loudness + b4_genre) (where genre is categorical, song is binary, and the rest of the variables in the model are continuous)\np(liv_acoust) = b0 + b1_length (+ b2_tempo + b3_loudness + b4_genre) (where genre is categorical, liv_acoust is binary, and the rest of the variables in the model are continuous)"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Tabachnick, Barbara G., Linda S. Fidell, and Jodie B. Ullman. 2019.\nUsing Multivariate Statistics. Seventh edition. NY,\nNY: Pearson."
   }
 ]
